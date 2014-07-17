@@ -28,7 +28,7 @@ public class TestStep1 extends AbstractWebDriver {
 				"https://www.oxfam.org.uk/account/login");
 	}
 
-	@Test
+	//@Test
 	// Test that you are on the right RegistrationPage
 	public void testAccountRegisterPageURL() {
 		onRegistrationPage = onHomePage.clickCreateAccount();

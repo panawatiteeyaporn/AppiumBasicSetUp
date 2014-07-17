@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="154212" started-at="2014-07-11T12:55:11Z" finished-at="2014-07-11T12:57:45Z">
+    <groups>
+    </groups>
+    <test name="TestSamsung" duration-ms="147148" started-at="2014-07-11T12:55:11Z" finished-at="2014-07-11T12:57:38Z">
+      <class name="OxfamMobile.WebTest.TestStep1">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="setUp" is-config="true" duration-ms="47696" started-at="2014-07-11T13:55:11Z" finished-at="2014-07-11T13:55:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAccountRegisterPageURL()[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="testAccountRegisterPageURL" duration-ms="7798" started-at="2014-07-11T13:55:58Z" finished-at="2014-07-11T13:56:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAccountRegisterPageURL -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="shutDown" is-config="true" duration-ms="9552" started-at="2014-07-11T13:56:06Z" finished-at="2014-07-11T13:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="setUp" is-config="true" duration-ms="31104" started-at="2014-07-11T13:56:16Z" finished-at="2014-07-11T13:56:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHomePageURL()[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="testHomePageURL" duration-ms="525" started-at="2014-07-11T13:56:47Z" finished-at="2014-07-11T13:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageURL -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="shutDown" is-config="true" duration-ms="7357" started-at="2014-07-11T13:56:47Z" finished-at="2014-07-11T13:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="setUp" is-config="true" duration-ms="33350" started-at="2014-07-11T13:56:55Z" finished-at="2014-07-11T13:57:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginPageURL()[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="testLoginPageURL" duration-ms="4712" started-at="2014-07-11T13:57:28Z" finished-at="2014-07-11T13:57:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageURL -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:OxfamMobile.WebTest.TestStep1@1095c6c]" name="shutDown" is-config="true" duration-ms="5023" started-at="2014-07-11T13:57:33Z" finished-at="2014-07-11T13:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- OxfamMobile.WebTest.TestStep1 -->
+    </test> <!-- TestSamsung -->
+    <test name="TestHTC" duration-ms="154212" started-at="2014-07-11T12:55:11Z" finished-at="2014-07-11T12:57:45Z">
+      <class name="OxfamMobile.WebTest.TestStep1">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="setUp" is-config="true" duration-ms="46692" started-at="2014-07-11T13:55:11Z" finished-at="2014-07-11T13:55:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HTC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAccountRegisterPageURL()[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="testAccountRegisterPageURL" duration-ms="6406" started-at="2014-07-11T13:55:57Z" finished-at="2014-07-11T13:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAccountRegisterPageURL -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="shutDown" is-config="true" duration-ms="8295" started-at="2014-07-11T13:56:04Z" finished-at="2014-07-11T13:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="setUp" is-config="true" duration-ms="36722" started-at="2014-07-11T13:56:12Z" finished-at="2014-07-11T13:56:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HTC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHomePageURL()[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="testHomePageURL" duration-ms="3032" started-at="2014-07-11T13:56:49Z" finished-at="2014-07-11T13:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageURL -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="shutDown" is-config="true" duration-ms="8132" started-at="2014-07-11T13:56:52Z" finished-at="2014-07-11T13:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="setUp" is-config="true" duration-ms="35726" started-at="2014-07-11T13:57:00Z" finished-at="2014-07-11T13:57:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HTC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginPageURL()[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="testLoginPageURL" duration-ms="5891" started-at="2014-07-11T13:57:36Z" finished-at="2014-07-11T13:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageURL -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:OxfamMobile.WebTest.TestStep1@170c7a3]" name="shutDown" is-config="true" duration-ms="3279" started-at="2014-07-11T13:57:42Z" finished-at="2014-07-11T13:57:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- OxfamMobile.WebTest.TestStep1 -->
+    </test> <!-- TestHTC -->
+  </suite> <!-- Suite -->
+</testng-results>
